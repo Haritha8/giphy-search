@@ -17,7 +17,7 @@ Welcome to the **Giphy Search App**! This is a simple React-based application th
 
 ## Demo
 
-A live version of the app can be found [Giphy-Search](https://giphy-search-4hr1f8rdz-haritha-varkalas-projects.vercel.app/)
+A live version of the app can be found [Giphy-Search](https://giphy-search-neon.vercel.app/)
 
 ## Features
 
